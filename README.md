@@ -1,2 +1,3 @@
 # TO DO LIST
-Nekdy z toho mozna neco vyleze
+Diky tomuhle to do listu zapomenes i na vlastni existenci
+(nefunguje)
